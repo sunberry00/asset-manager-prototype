@@ -1,8 +1,8 @@
 {
-  "name": "web-starter",
+  "name": "asset-manager-prototype",
   "version": "0.0.0",
-  "description": "{{DESCRIPTION}}",
-  "author": "{{AUTHOR}}",
+  "description": "Asset manager for IMI",
+  "author": "Alexander Ivanets aivanets@ukaachen.de",
   "license": "Apache-2.0",
   "private": true,
   "type": "module",
@@ -18,7 +18,6 @@
     "lint": "eslint .",
     "format": "prettier --write .",
     "format:check": "prettier --check .",
-    "init": "bun run scripts/init.ts",
     "prepare": "lefthook install"
   },
   "devDependencies": {

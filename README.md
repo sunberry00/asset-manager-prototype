@@ -1,36 +1,13 @@
-# {{PROJECT_NAME}}
+# asset-manager-prototype
 
-<!-- template:start -->
 
-> This repository was created from the `web-starter` template. Do this one-time setup before anything else:
->
-> 1. Install the dependencies and the git hooks:
->    ```sh
->    bun install
->    ```
-> 2. Fill in the placeholders. The script reads your `git remote` to guess the slug and asks for the rest:
->    ```sh
->    bun run init
->    ```
-> 3. Review the diff, then commit and push it, for example:
->    ```sh
->    git add -A
->    git commit -m "chore: fill in the template placeholders"
->    git push
->    ```
-> 4. Do the GitHub steps under [Repository settings](#repository-settings).
->
-> `init.ts` rewrites the placeholders (`{{PROJECT_NAME}}`, `{{REPO_SLUG}}`, `{{DESCRIPTION}}`, `{{AUTHOR}}`, `{{OWNER}}`) across the repo, strips this banner and deletes itself.
-
-<!-- template:end -->
-
-[![Verify](https://github.com/{{REPO_SLUG}}/actions/workflows/verify.yml/badge.svg)](https://github.com/{{REPO_SLUG}}/actions/workflows/verify.yml)
-[![CodeQL](https://github.com/{{REPO_SLUG}}/actions/workflows/scan-codeql.yml/badge.svg)](https://github.com/{{REPO_SLUG}}/actions/workflows/scan-codeql.yml)
-[![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/{{REPO_SLUG}}/badge)](https://securityscorecards.dev/viewer/?uri=github.com/{{REPO_SLUG}})
+[![Verify](https://github.com/sunberry00/asset-manager-prototype/actions/workflows/verify.yml/badge.svg)](https://github.com/sunberry00/asset-manager-prototype/actions/workflows/verify.yml)
+[![CodeQL](https://github.com/sunberry00/asset-manager-prototype/actions/workflows/scan-codeql.yml/badge.svg)](https://github.com/sunberry00/asset-manager-prototype/actions/workflows/scan-codeql.yml)
+[![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/sunberry00/asset-manager-prototype/badge)](https://securityscorecards.dev/viewer/?uri=github.com/sunberry00/asset-manager-prototype)
 [![License](https://img.shields.io/badge/license-Apache--2.0-blue.svg)](./LICENSE)
-[![Release](https://img.shields.io/github/v/release/{{REPO_SLUG}})](https://github.com/{{REPO_SLUG}}/releases)
+[![Release](https://img.shields.io/github/v/release/sunberry00/asset-manager-prototype)](https://github.com/sunberry00/asset-manager-prototype/releases)
 
-# {{DESCRIPTION}}
+# Asset manager for IMI
 
 ## Stack
 

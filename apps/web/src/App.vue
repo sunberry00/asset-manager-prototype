@@ -1,5 +1,5 @@
 <script setup lang="ts">
-const title = "{{PROJECT_NAME}}";
+const title = "asset-manager-prototype";
 </script>
 
 <template>
